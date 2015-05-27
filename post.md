@@ -49,7 +49,7 @@ __Eating your own dog food, neat.__
 
 Even if you're not planning on making the next Wordpress with its 'millions' of plugins, having isolated features means your team can work on something while another team works on something completely different. The best part? Nobody is stepping on each other's toes!
 
-Modular applications are truly amazing if that's what you need, but they have pitfalls you should be aware of. First of all, they are not for beginners-friendly. You should already have a good understanding of Ruby and Ruby on Rails before attempting to build a modular application. It's also harder to work with this kind of application since you're managing a set of modules instead of a single application.
+Modular applications are truly amazing if that's what you need, but they have pitfalls you should be aware of. First of all, they are not beginner friendly. You should already have a good understanding of Ruby and Ruby on Rails before attempting to build a modular application. It's also harder to work with this kind of application since you're managing a set of modules instead of a single application.
 
 ## 3. One way to implement it
 
